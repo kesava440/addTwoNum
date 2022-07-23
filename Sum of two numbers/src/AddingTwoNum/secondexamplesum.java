@@ -1,8 +1,13 @@
+package AddingTwoNum;
 import java.util.Scanner;
+import Multwonumbers.*;
 public class secondexamplesum {
 
     public static void main(String[] args) {
-        
+    	multiplication A = new multiplication();
+    	
+    	A.toString();
+    	 System.out.println("Enter First A: "+A);
         int num1, num2, sum;
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter First Number: ");
