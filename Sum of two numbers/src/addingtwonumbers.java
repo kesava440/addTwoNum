@@ -8,6 +8,7 @@ public class addingtwonumbers {
 		
 		int sum = num1 +num2;
 		System.out.println(sum);
+		//trying to get new
 
 	}
 
