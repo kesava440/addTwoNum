@@ -13,6 +13,10 @@ public class secondexamplesum {
         System.out.println("Enter First Number: ");
         num1 = sc.nextInt();
         
+         System.out.println("Enter Second Number: ");
+        
+         System.out.println("Enter Second Number: ");
+        
         System.out.println("Enter Second Number: ");
         num2 = sc.nextInt();
         
